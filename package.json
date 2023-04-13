@@ -1,0 +1,24 @@
+{
+  "name": "simple_token",
+  "version": "1.0.0",
+  "description": "this is a blobkchain token system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ichaintch/simple_token"
+  },
+  "keywords": [
+    "web3",
+    "token",
+    "blockchain"
+  ],
+  "author": "fishseabowl",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.1"
+  }
+}
