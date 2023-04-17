@@ -17,8 +17,11 @@
   ],
   "author": "fishseabowl",
   "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
-    "hardhat": "^2.13.1"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
   }
 }
